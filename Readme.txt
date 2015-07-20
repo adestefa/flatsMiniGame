@@ -2,8 +2,14 @@
  Flats Mini-game (flatsMG) by CoreLogic 2015
  ===========================================--
   A simple game of shooting tires for $$. 
-   - $100 each tire
-   - $1000 all four
+   	$100 each tire
+	$1000 all four
+	Ped must be alive in car for flat to count
+	Cars must be on the same street as player, no sniping
+	Car will explode if you shoot out all four tires
+	Simple UI to ease game play with single key start/stop
+	Sound with score tally and payout
+	Wanted level still rises so you should be sneaky in your approach
 
   This is a work in progress, there is a delay when registering a hit. I am working to resolve this issue and add new features.
   
